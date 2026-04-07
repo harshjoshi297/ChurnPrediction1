@@ -2,6 +2,7 @@
 
 A machine learning system that predicts customer churn and segments at-risk customers into behavioral groups with targeted retention strategies. Built with XGBoost, KMeans clustering, FastAPI, Pydantic, and Streamlit.
 
+Demo Video - https://youtu.be/GakobcdQZHc
 ---
 
 ## Overview
