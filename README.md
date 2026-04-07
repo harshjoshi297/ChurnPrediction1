@@ -95,11 +95,9 @@ churn_prediction/
 │   ├── 01_churn_preprocessing.ipynb
 │   ├── 02_churn_model.ipynb
 │   └── 03_segmentation_model.ipynb
-├── data/
-│   └── Churn.csv
-├── train.py                  Retrains all models from scratch
-├── Procfile                  Process definitions for deployment
-├── Dockerfile                Container setup for Hugging Face Spaces
+├── Churn.csv
+│ 
+├── train.py           
 ├── requirements.txt
 └── README.md
 ```
